@@ -66,7 +66,7 @@ class Buku {
 }
 
 // Kelas utama untuk menjalankan program
-public class Royalty {
+public class royalty {
     public static void main(String[] args) {
         // Inisialisasi kategori buku
         Kategori teknologi = new Kategori("Teknologi");
